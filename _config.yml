@@ -1,0 +1,28 @@
+name: オンラインギャンブラー.com
+favicon: null
+layout_spectrum: 0.6409728536382318
+typography_spectrum: 0.5753837856464088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24921052623540163
+  lightness: 0.35227750265039504
+  saturation: 0.39578007790260017
+  rhythmicContrast: 0.7797425261233002
+purpose: []
