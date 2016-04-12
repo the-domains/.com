@@ -1,6 +1,6 @@
 name: オンラインギャンブラー.com
 favicon: null
-layout_spectrum: 0.49394
+layout_spectrum: 1
 typography_spectrum: 0.5753837856464088
 title: オンラインカジノ　オンラインギャンブル　チャンピオンリーグ　海外　ギャンブル　カジノ　スポーツ　賭け事　ブックメーカー
 cta:
@@ -22,7 +22,7 @@ color:
     - '#2c1811'
     - '#81563d'
     - '#c7d7ec'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.35227750265039504
   saturation: 0.39578007790260017
   rhythmicContrast: 0.7797425261233002
